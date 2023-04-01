@@ -1,4 +1,4 @@
- Size Limit [![Cult Of Martians][cult-img]][cult]
+ # Open Source AI
 
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
