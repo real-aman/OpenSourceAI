@@ -1,6 +1,6 @@
  # OpenSourceAI 🚀
 
-<img src="https://media.istockphoto.com/id/1289309721/vector/artificial-intelligence-ai-processor-chip-vector-icon-symbol-for-graphic-design-logo-web.jpg?s=170667a&w=0&k=20&c=Vshd9VOHUZaZCYy5gYUOT0KdU345lutU93SNtz5ep1I=" align="right"
+<img src="https://cdn.icon-icons.com/icons2/2817/PNG/512/ai_artificial_intelligence_chip_technology_cpu_icon_179503.png" align="right"
      alt="AI" height="178">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
