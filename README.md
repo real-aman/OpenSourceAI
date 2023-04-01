@@ -3,20 +3,12 @@
 <img src="https://cdn.icon-icons.com/icons2/2817/PNG/512/ai_artificial_intelligence_chip_technology_cpu_icon_179503.png" align="right"
      alt="AI" height="178">
 
-Size Limit is a performance budget tool for JavaScript. It checks every commit
-on CI, calculates the real cost of your JS for end-users and throws an error
-if the cost exceeds the limit.
+OpenSourceAI is a Open Source AI tool. It processes user inputs, searches the web and summarises the topic for the user.
 
-* **ES modules** and **tree-shaking** support.
-* Add Size Limit to **Travis CI**, **Circle CI**, **GitHub Actions**
-  or another CI system to know if a pull request adds a massive dependency.
-* **Modular** to fit different use cases: big JS applications
-  that use their own bundler or small npm libraries with many files.
-* Can calculate **the time** it would take a browser
-  to download and **execute** your JS. Time is a much more accurate
-  and understandable metric compared to the size in bytes.
-* Calculations include **all dependencies and polyfills**
-  used in your JS.
+* **Free to Explore** The chatbot can reach, consume and process vast amounts of data — both structured and unstructured — to surface insights from virtually any source in order to gather relevant data to solve customer issues quickly.
+* **Pre-trained** The chatbot is pre-trained to understand brand-specific or industry-specific knowledge and terms. Even better, it’s pre-configured to resolve common customer requests of a particular industry.
+* ** *Add more* ** 
+
 
 <p align="center">
   <img src="./img/example.png" alt="Size Limit CLI" width="738">
