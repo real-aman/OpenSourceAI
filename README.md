@@ -9,35 +9,6 @@ OpenSourceAI is a Open Source AI tool. It processes user inputs, searches the w
 * **Pre-trained** The chatbot is pre-trained to understand brand-specific or industry-specific knowledge and terms. Even better, it’s pre-configured to resolve common customer requests of a particular industry.
 * ** *Add more* ** 
 
-
-<p align="center">
-  <img src="./img/example.png" alt="Size Limit CLI" width="738">
-</p>
-
-With **[GitHub action]** Size Limit will post bundle size changes as a comment
-in pull request discussion.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/andresz1/size-limit-action/master/assets/pr.png"
-  alt="Size Limit comment in pull request about bundle size changes"
-  width="686" height="289">
-</p>
-
-With `--why`, Size Limit can tell you *why* your library is of this size
-and show the real cost of all your internal dependencies.
-We are using [Statoscope] for this analysis.
-
-<p align="center">
-  <img src="./img/why.png" alt="Statoscope example" width="650">
-</p>
-
-<p align="center">
-  <a href="https://evilmartians.com/?utm_source=size-limit">
-    <img src="https://evilmartians.com/badges/sponsored-by-evil-martians.svg"
-         alt="Sponsored by Evil Martians" width="236" height="54">
-  </a>
-</p>
-
 [GitHub action]: https://github.com/andresz1/size-limit-action
 [Statoscope]:    https://github.com/statoscope/statoscope
 [cult-img]:      http://cultofmartians.com/assets/badges/badge.svg
