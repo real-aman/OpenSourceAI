@@ -38,7 +38,6 @@ Packages:
 
 * openai
 * BeautifulSoup4
-  and prepares bundle file for `file` plugin.
 * html2text
 * streamlit
 * selenium
